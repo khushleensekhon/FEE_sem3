@@ -1,0 +1,37 @@
+.one{
+    text-align: center;
+}
+body{
+    background-color: black;
+    align-items: center;
+}
+.two{
+    background-color: whitesmoke;
+    padding: 40px;
+    margin: 40px;
+    
+}
+h1{
+    color: rgb(160, 11, 11);
+    text-align: center;
+}
+input[type="submit"]{
+    
+    background-color: rgb(160, 11, 11);
+    border: 0cap;
+    color: white;
+    height: 40px;
+    width: 260px;
+}
+.five{
+    text-align: center;
+    background-color: rgb(213, 212, 212);
+    padding: 50px;
+    margin: 50px;
+    width: 300px;
+    height: 300px;
+}
+.three{
+    font-size: 12px;
+    color: rgb(160, 11, 11);
+}
